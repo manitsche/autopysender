@@ -1,0 +1,16 @@
+Criar tarefa
+
+Aba Geral
+Executar somente quando o usuário estiver conectado
+Executar com privilégios mais altos
+
+Aba Disparadores
+Iniciar a tarefa: Ao fazer logon
+Atrasar a tarefa em: 30 segundos
+
+Aba Ações
+Programa / Script: onde está localizado o pytonw.exe (se for para um app com interface gráfica)
+Adicionar argumentos (sempre informar o caminho do executável do arquivo criado)
+
+Aba Condições
+Desmarca tudo
